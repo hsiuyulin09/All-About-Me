@@ -8,7 +8,9 @@ I also have a Master degree of Biomedical Scirnce and a former Research Assistan
     - AI Emgineer
     - Biomedical Scirnce MSc (Program of Biochemistry, and Molecular Cellbiology)
 
- - **Looking for**: Bioinformatic or AI application, work form home
+ - **Looking for**:
+    - Bioinformatic or AI application
+    - Work From Home
     - Full-time
     - Part-time
     - Contract
@@ -59,6 +61,13 @@ Contributed to an on-premises LLM/RAG/Agent assistant project for China Airlines
  - Designed and established an exosome (Extracellular vesicle) research workflow, covering cell line selection and culture, exosome isolation, concentration, and characterization.
   
  - Conducted downstream analyses, including Nanoparticle Tracking Analysis (NTA), Western blotting, mass spectrometry (MS) sample preparation, and MS data interpretation.
+
+ ### Additional Experience
+
+Additional work and internship experience.
+
+ - ["Click here"](./additional_experience/additional_work_experience.md) connect to **Additional Work Experience**
+ - ["Click here"]() connect to **Internship Experience**
 
  ## Selected Projects
 
