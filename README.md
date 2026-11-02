@@ -67,7 +67,7 @@ Contributed to an on-premises LLM/RAG/Agent assistant project for China Airlines
 Additional work and internship experience.
 
  - ["Click here"](./additional_experience/additional_work_experience.md) connect to **Additional Work Experience**
- - ["Click here"]() connect to **Internship Experience**
+ - ["Click here"](./additional_experience/internship_experience.md) connect to **Internship Experience**
 
  ## Selected Projects
 
