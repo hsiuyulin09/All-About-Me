@@ -2,16 +2,16 @@
 
 #### 2018
 
- - Project: PML-B2 Point Mutations Affect It's SUMOylation *in vitro*.
+ - Project: PML-B2 Point Mutations Affect It's SUMOylation *in vitro*
 
-### Cardiovascular Laboratory
+### Cardiovascular Laboratory, Chang Gung University
 
 #### 2017 ~ 2018
 
  - Performed mouse husbandry, euthanasia, and experiments.
  - Biochemical parameter analysis.
 
-### Developmental Biology Laboratory 
+### Developmental Biology Laboratory, Chang Gung University 
 
 #### 2017
 

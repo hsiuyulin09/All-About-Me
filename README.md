@@ -20,6 +20,11 @@ I also have a Master degree of Biomedical Scirnce and a former Research Assistan
      - GutHub: https://github.com/hsiuyulin09
      - LinkdIn: https://www.linkedin.com/in/%E4%BF%AE%E6%B8%9D-%E6%9E%97-36561920b/
 
+## Contents
+
+ - [Core Skills](##core-Skills)
+ - [Professional Experience](##professional-experience)
+
 ## Core Skills
 
 ### Computer Science
@@ -71,7 +76,7 @@ Additional work and internship experience.
 
  ## Selected Projects
 
- ### Enterprise LLM Assistant (2026)
+ ### Enterprise LLM Assistant (2025 ~ 2026)
 
  #### Cross-functional Team Project
 
@@ -104,3 +109,16 @@ Independently developed an end-to-end image analysis pipeline for detecting, seg
 **Technologies**: Python, PyTorch, OpenCV, FastAPI, NumPy, SciPy, scikit-image, HDF5, Labelme
 
 **Additional Information** (GitHub): https://github.com/hsiuyulin09/ANuC-Automatic-Cell-Nuclei-Detection-and-Counting-System
+
+## Education
+
+### Master Degree | Institute of Biomedical Science, Chang Gung University
+
+#### 2021 ~ 2023
+
+ - Master thesis：Investigate of the role of PLSCR1 in KPNA2-mediated chemoresistance in lung cancer
+ - Advisor: Chia-Jung Yu Ph.D.
+
+### Bachelor degree | Department of Biomedical Science, Chang Gung University
+
+#### 2016 ~ 2020
