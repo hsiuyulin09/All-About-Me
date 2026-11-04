@@ -22,8 +22,13 @@ I also have a Master degree of Biomedical Scirnce and a former Research Assistan
 
 ## Contents
 
- - [Core Skills](##core-Skills)
- - [Professional Experience](##professional-experience)
+ - [**Summary**](#resume)
+ - [**Core Skills**](#core-Skills)
+ - [**Professional Experience**](#professional-experience)
+ - [**Selected Projects**](#selected-projects)
+   - [Enterprise LLM Assistant](#enterprise_llm_assistant)
+   - [Automatic Cell Nuclei Detection and Counting System](#automatic-cell-nuclei-detection-and-counting-system)
+ - [**Education**](#education)
 
 ## Core Skills
 
